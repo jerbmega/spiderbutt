@@ -60,9 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Patches\BugFix.Jackpot.cs" />
     <Compile Include="Patches\Events.cs" />
+    <Compile Include="Patches\MenuTweaks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpiderButt\MenuTweaks.cs" />
     <Compile Include="SpiderButt\Utils.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
