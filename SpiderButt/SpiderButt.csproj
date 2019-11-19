@@ -60,7 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Patches\BugFix.Jackpot.cs" />
+    <Compile Include="Patches\BumboApplication.cs" />
     <Compile Include="Patches\Events.cs" />
     <Compile Include="Patches\MenuTweaks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
